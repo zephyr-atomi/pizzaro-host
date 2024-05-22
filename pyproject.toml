@@ -53,7 +53,7 @@ Source = "https://github.com/microsoft/python-package-template"
 Tracker = "https://github.com/microsoft/python-package-template/issues"
 
 [tool.flit.module]
-name = "common"
+name = "pizzaro"
 
 [tool.bandit]
 exclude_dirs = ["build","dist","tests","scripts"]

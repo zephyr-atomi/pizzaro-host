@@ -17,5 +17,5 @@ files:
 
   - "!.github/workflows/template-sync.yml"
   - "!.github/template-sync.yml"
-  - "!src/common"
+  - "!src/pizzaro"
   - "!tests/test_hello_world.py"

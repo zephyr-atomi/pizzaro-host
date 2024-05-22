@@ -1,5 +1,5 @@
 import pytest
-from lib.hello_world import hello_world, good_night, hello_goodbye
+from pizzaro.hello_world import hello_world, good_night, hello_goodbye
 
 
 def test_hello_world_default():
